@@ -6,3 +6,7 @@ It came this idea on my head.
 Sadly No.
 # Will there be bugs?
 Maybe. Not really sure.
+
+
+## Contribute
+Mail me (minthel26@gmail.com) or my Discord (microprocessordustry)
